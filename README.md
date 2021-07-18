@@ -2,7 +2,7 @@
 
 This project was design to build an attendance system with computer vision technique.
 
-![image](https://user-images.githubusercontent.com/85855794/126082613-82021c9a-c853-45f6-9a46-293c8a4b190c.png)<img src="https://your-image-url.type" width="100" height="100">
+![image](https://user-images.githubusercontent.com/85855794/126082613-82021c9a-c853-45f6-9a46-293c8a4b190c.png) <img src="https://your-image-url.type" width="100" height="100">
 
 
 ## Method
